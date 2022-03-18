@@ -29,7 +29,7 @@ I help clients with visualising process complexity on the areas of security, com
 **German**: A1 <br>
 <br><br>
 
-## 👩🏼‍🎓 Education
+## Education
 
 **Master of Science - Process and Product Design** - Eindhoven Technical University - 2000<br>
 
