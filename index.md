@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Carolyn Stransky
 
-You can use the [editor on GitHub](https://github.com/davevs/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Strategic Software Delivery Consultant based in The Netherlands_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:dvanstein@qxperts.io) / [LinkedIn](https://www.linkedin.com/in/dvstein/) / [GitHub](https://github.com/davevs/) / [Twitter](https://twitter.com/Dave_von_S/) 
 
-### Markdown
+## Professional Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Consultant** @ [Qxperts.io](https://qxperts.io/) _(Jun 2020 - Present)_ <br>
+I help clients with visualising process complexity on the areas of security, compliance, risk, and service management and provide solutions for simplification and re-engineering. I heavily use visualisation tools & techniques like miro, cynefin, wardley mapping, event storming, threat modeling, and liberating structures.
+  - **_Technologies used:_** Miro, Mural, draw.io, powerpoint, github, excel.
+<br><br>
 
-```markdown
-Syntax highlighted code block
+   
+## Projects I'm working on
 
-# Header 1
-## Header 2
-### Header 3
+## Publications
+    
+### Articles
 
-- Bulleted
-- List
+### Webinars
 
-1. Numbered
-2. List
+### Blogs
 
-**Bold** and _Italic_ and `Code` text
+## Languages
 
-[Link](url) and ![Image](src)
-```
+**Dutch**: Native <br>
+**English**: B2 <br>
+**German**: A1 <br>
+<br><br>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 👩🏼‍🎓 Education
 
-### Jekyll Themes
+**Master of Science - Process and Product Design** - Eindhoven Technical University - 2000<br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/davevs/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Master of Science - Chemistry** - Leiden University - 1998<br>
