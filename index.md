@@ -12,7 +12,18 @@ I help clients with visualising process complexity on the areas of security, com
 <br><br>
 
    
-## Projects I'm working on
+## Side Projects
+
+**[My Digital CV](https://github.com/davevs/cv)** <br>
+A fun way to get more into the 'everything as code' mindset.
+- **_Learning Goals:_** git, vscode, markdown, github actions, github runners
+  <br>
+
+**[DVXTE](https://github.com/davevs/dvxte)** <br>
+Damn Vulnerable eXtensive Training Environment is a Docker based playground to learn how to test for security vulnerabilities. The playground contains various vulnerable applications and exercise labs. 
+- **_Learning Goals:_** git, vscode, docker, linux, web
+  <br>
+
 
 ## Publications
     
