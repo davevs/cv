@@ -1,4 +1,4 @@
-# Carolyn Stransky
+# Dave van Stein
 
 _Strategic Software Delivery Consultant based in The Netherlands_ <br>
 
