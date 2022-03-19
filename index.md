@@ -31,6 +31,9 @@ Damn Vulnerable eXtensive Training Environment is a Docker based playground to l
 ## Publications
     
 ### Articles
+[Web Vulnerablity Scanners: Tools or Toys?](https://github.com/cv/assets/articles/200902_TestingExperience_p31-34.pdf) _Testing Experience (2019), Security Acts(2010)_ <br>
+[Can Web Appliation Security Testing Help Prevent Disasters](https://github.com/cv/assets/articles/201106_CxOMag_p46.pdf) _CxO Magazine (2011)_ <br>
+
 
 ### Webinars
 
